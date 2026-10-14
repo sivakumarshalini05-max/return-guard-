@@ -1,0 +1,3 @@
+@echo off
+echo Starting ReturnGuard Backend and Frontend...
+npm run dev
